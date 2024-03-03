@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = /home/r2d2/work/git_testing/shared
+	branch = main
+	commit = a7bb2119cb350ae9af8a9f218138550eac388d63
+	parent = 2b81954cfb9b3bf42e072018bb0bb44d7248d400
+	method = merge
+	cmdver = 0.4.6
