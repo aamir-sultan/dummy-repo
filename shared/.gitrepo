@@ -6,7 +6,7 @@
 [subrepo]
 	remote = /home/r2d2/work/git_testing/shared
 	branch = main
-	commit = 019134f60ae89c02106c1fc604be04fce4cc4b67
-	parent = c2f3ad10a4135a529ce7f0f399eed79464f4271f
+	commit = 8b369cd798f0b5ab64676825500e12887e9c161b
+	parent = aca0411e1a107888fd498da178ab5d6ac7395ab3
 	method = merge
 	cmdver = 0.4.6
